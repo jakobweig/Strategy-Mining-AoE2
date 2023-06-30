@@ -13,7 +13,7 @@ For a better understanding of the results are the features summarized to more ge
 
 After this is done the final daframes are saved.
 
-# Machine Learning
+## Machine Learning
 
 The prepared dataframes from the first notebooks are loaded and the function 'cluster_function' is called with every dataframe which calculates the K-Means and the feature importance of every cluster of every dataframe. The feature importance gets displayed as one graph each.
 
@@ -21,7 +21,7 @@ The next two cells calculate the win rate of each of the clusters in order give 
 
 The last code snippets visualize the the different dataframes with PCA, 3D PCA and the t-SNE method.
 
-# DBSCSAN Notebook
+## DBSCSAN Notebook
 The DBSAN notebook is only a short exploration on how good the clustering with DBSCAN works in comparison with k-Means. 
 
 The notebook begins with reading the prepared data from the main ‘Strategy mining’ notebook. 
