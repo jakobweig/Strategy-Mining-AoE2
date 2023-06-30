@@ -22,9 +22,9 @@ The next two cells calculate the win rate of each of the clusters in order give 
 
 The last code snippets visualize the the different dataframes with PCA, 3D PCA and the t-SNE method.
 
-## DBSCSAN Notebook
+## DBSCAN Notebook
 
-The DBSAN notebook is only a short exploration on how good the clustering with DBSCAN works in comparison with k-Means. 
+The DBSCAN notebook is only a short exploration on how good the clustering with DBSCAN works in comparison with k-Means. 
 
 The notebook begins with reading the prepared data from the main ‘Strategy mining’ notebook. 
 Directly after is the DBSCAN method applied as well as the different visualization methods PCA, 3D PCA and t-SNE like in the other notebook.
