@@ -1,4 +1,4 @@
-# AoE2-Seminar
+# Seminar Strategy Mining
 Jakob Weigand: 2823303
 
 ## Structure of the Code
