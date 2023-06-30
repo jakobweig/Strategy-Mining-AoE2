@@ -5,7 +5,7 @@ Jakob Weigand: 2823303
 There are 3 Notebooks. The first Notebook is ‘Data preparation’ in which the data gets examined and prepared. The second notebook ‘K-Means’ in which different strategies are analyzed and in the last notebook ‘DBSCAN’ is similar to the K-Means code and for a comparison between these two methods.
 
 ## Data preparation
-The first part of the code reads in the files and creates several new columns for the later analyses. Three Boxplotes, displaying the time, elo and APMD distribution give a first insight to the dataset. Next follows are Timefilter cell in which one can uncomment one of the line to filter the data respectivly for actions that happend only before the specified timestamp.
+The first part of the code reads in the files and creates several new columns for the later analyses. Three Boxplotes, displaying the time, elo and APM distribution give a first insight to the dataset. Next follows are Timefilter cell in which one can uncomment one of the line to filter the data respectivly for actions that happend only before the specified timestamp.
 
 In the next part gets the dataframe divided into 4 parts which only includes the Actions of recrtuiting Units, building buildings or researching technologies and one dataframe with all the data. 
 After this step is done, the actions are counted and trasnformed to numbers. Now does every dataframe contains the counts how often each player did one of the actions which are displayed in the columns.
