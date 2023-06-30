@@ -2,7 +2,8 @@
 Jakob Weigand: 2823303
 
 ## Structure of the Code
-There are 3 Notebooks. The first Notebook is ‘Data preparation’ in which the data gets examined and prepared. The second notebook ‘K-Means’ in which different strategies are analyzed and in the last notebook ‘DBSCAN’ is similar to the K-Means code and for a comparison between these two methods.
+There are 4 Notebooks. The first Notebook is ‘Data preparation’ in which the data gets examined and prepared. The second notebook 'Pobit Model' shows some linear regression models.
+Int the third notebook ‘K-Means’ are different strategies analyzed and the last notebook ‘DBSCAN’ is similar to the K-Means notebook and for a comparison between these two methods.
 
 ## Data Preparation Notebook
 The first part of the code reads in the files and creates several new columns for the later analyses. Three Boxplotes, displaying the time, elo and APM distribution give a first insight into the dataset. Next follows a timefilter cell in which one can uncomment one of the lines to filter the data respectivly for actions that happend only before the specified timestamp.
